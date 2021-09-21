@@ -1,0 +1,30 @@
+#root,
+html,
+body {
+  height: 100hv;
+}
+
+body {
+  margin: 0;
+  background-color: whitesmoke;
+  background: rgba(137, 125, 255, 0.4);
+}
+
+h1 {
+  display: flex;
+  color: rgba(6, 44, 90, 0.856);
+  justify-content: center;
+  font-family: system-ui;
+  font-weight: 700;
+  font-size: 40px;
+  margin-top: 40px;
+  margin-bottom: -4px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
