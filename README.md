@@ -13,7 +13,7 @@ The first interface of the app is like the following image where the instruction
 
 ## News List
 
-After giving command to the first page, the news list will be shown like the following.
+After giving voice command to the first page, the news list will be shown like the following image.
 
 <p align="center">
     <img width="700" src="readme_images/News%20List.png">
