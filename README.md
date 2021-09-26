@@ -1,5 +1,5 @@
 # News-App-with-ALAN-AI
-This app is created based on ALAN AI which is a VOICE AI Platform and React. This app is very much interactive and can be manipulated easily using voice command.
+This app is created based on ALAN AI which is a VOICE AI Platform and React. This app is very much interactive and can be manipulated easily using voice commands.
 
 ## Front Page
 
